@@ -1,5 +1,5 @@
 # MiscProjects
-Reports of some of the projects I worked on in my sophomore year at IIT Madras
+Reports of some of the projects I worked on in my third semester at IIT Madras
 
 # Contents:
 
